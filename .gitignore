@@ -41,3 +41,30 @@ app-example
 # generated native folders
 /ios
 /android
+
+
+
+.claude/
+AGENTS.md
+CLAUDE.md
+
+
+.vscode/
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+
+
+# If you don't care about tracking configuration files, un-comment these:
+# app.json
+# eslint.config.js
+# tsconfig.json
+# package.json
+# package-lock.json
+
+
+.DS_Store
+Thumbs.db
