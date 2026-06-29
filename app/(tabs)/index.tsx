@@ -29,7 +29,7 @@ const styles = StyleSheet.create({
     alignItems: 'center',
 
   },
-  ImageContainer: {
+  imageContainer: {
     flex: 1,
   },
   footerContainer: {

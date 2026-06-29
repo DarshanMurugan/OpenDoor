@@ -42,7 +42,7 @@ app-example
 /ios
 /android
 
-
+/test-assets
 
 .claude/
 AGENTS.md
