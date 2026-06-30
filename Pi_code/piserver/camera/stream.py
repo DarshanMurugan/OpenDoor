@@ -1,5 +1,5 @@
 import cv2
-from picamera2 import picamera2
+from picamera2 import Picamera2
 from django.http import StreamingHttpResponse
 
 picam2 = Picamera2()
